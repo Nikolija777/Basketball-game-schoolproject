@@ -1,0 +1,42 @@
+Utakmica odigrana izmedju Team1 i Team2 datuma Cetvrtak
+
+Team1
+PlayerName                    #   POS   HEIGHT
+Player1                       1    /     196cm
+Player2                       2    /     197cm
+Player3                       3    /     198cm
+Player4                       4    /     199cm
+Player5                       5    /     200cm
+
+Team2
+PlayerName                    #   POS   HEIGHT
+Player6                       6    /     201cm
+Player7                       7    /     202cm
+Player8                       8    /     203cm
+Player9                       9    /     204cm
+Player10                      10   /     205cm
+
+Rezultat je:
+Team1  3:0  Team2
+
+Team1
+ime                 poz broj  pts   ast   dreb  oreb  stl   blk   to   foul  fould   2a    2m    %2    3a    3m    %3    fta   ftm   ft%   fg%   
+Player1              /   1     0     0     0     0     0     0    0      0     0     0     0     0     0     0     0     0     0     0     0    
+Player2              /   2     0     0     0     0     0     0    0      0     0     0     0     0     0     0     0     0     0     0     0    
+Player3              /   3     3     0     0     0     0     0    0      0     0     0     0     0     1     1     100   0     0     0     100  
+Player4              /   4     0     0     0     0     0     0    0      0     0     0     0     0     0     0     0     0     0     0     0    
+Player5              /   5     0     0     0     0     0     0    0      0     0     0     0     0     0     0     0     0     0     0     0    
+-----------------------------------------------------------------------------------------------------------------------------------------------
+Ukupno:              /   /     3     0     0     0     0     0    0      0     0     0     0     0     1     1     100   0     0     0     100  
+
+Team2
+ime                 poz broj  pts   ast   dreb  oreb  stl   blk   to   foul  fould   2a    2m    %2    3a    3m    %3    fta   ftm   ft%   fg%   
+Player6              /   6     0     0     0     0     0     0    0      0     0     0     0     0     0     0     0     0     0     0     0    
+Player7              /   7     0     0     0     0     0     0    0      0     0     0     0     0     0     0     0     0     0     0     0    
+Player8              /   8     0     0     0     0     0     0    0      0     0     0     0     0     0     0     0     0     0     0     0    
+Player9              /   9     0     0     0     0     0     0    0      0     0     0     0     0     0     0     0     0     0     0     0    
+Player10             /   10    0     0     0     0     0     0    0      0     0     0     0     0     0     0     0     0     0     0     0    
+-----------------------------------------------------------------------------------------------------------------------------------------------
+Ukupno:              /   /     0     0     0     0     0     0    0      0     0     0     0     0     0     0     0     0     0     0     0    
+
+MVP utakmice je Player3 sa indexom korisnosti 3
